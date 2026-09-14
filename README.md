@@ -1,4 +1,4 @@
-# amazin. — Amazon Clone (React + Vite)
+# amazon. — Amazon Clone (React + Vite)
 
 A front-end e-commerce clone built with React, Vite, and React Router.
 
